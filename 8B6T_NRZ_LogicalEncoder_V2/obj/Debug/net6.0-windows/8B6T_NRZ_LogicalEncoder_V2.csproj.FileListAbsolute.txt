@@ -33,3 +33,23 @@ D:\C++ SDK\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug
 D:\C++ SDK\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.pdb
 D:\C++ SDK\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.genruntimeconfig.cache
 D:\C++ SDK\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\ref\8B6T_NRZ_LogicalEncoder_V2.dll
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.csproj.AssemblyReference.cache
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\_8B6T_NRZ_LogicalEncoder_V2.Form1.resources
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.csproj.GenerateResource.cache
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.AssemblyInfoInputs.cache
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.AssemblyInfo.cs
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.csproj.CoreCompileInputs.cache
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.dll
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\refint\8B6T_NRZ_LogicalEncoder_V2.dll
+C:\Users\King-and-God_LT\Source\Repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.pdb
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.exe
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.deps.json
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.runtimeconfig.json
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.dll
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.pdb
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\ZedGraph.dll
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\bin\Debug\net6.0-windows\ZedGraph.Web.dll
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.csproj.CopyComplete
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\8B6T_NRZ_LogicalEncoder_V2.genruntimeconfig.cache
+C:\Users\King-and-God_LT\source\repos\8B6T_NRZ_LogicalEncoder_V2\8B6T_NRZ_LogicalEncoder_V2\obj\Debug\net6.0-windows\ref\8B6T_NRZ_LogicalEncoder_V2.dll

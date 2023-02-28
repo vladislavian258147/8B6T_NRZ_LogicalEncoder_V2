@@ -12,10 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\KIND-AND-GOD\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\KIND-AND-GOD\\.nuget\\packages",
-      "D:\\C++ SDK\\Shared\\NuGetPackages",
-      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+      "C:\\Users\\King-and-God_LT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\King-and-God_LT\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

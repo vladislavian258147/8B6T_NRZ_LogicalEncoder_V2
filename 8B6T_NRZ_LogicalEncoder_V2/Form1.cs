@@ -15,6 +15,11 @@ namespace _8B6T_NRZ_LogicalEncoder_V2 {
             InitializeComponent();
 
             this.Text = "Encoder 8B/6T NRZ";
+            this.Width = 850;
+            this.Height = 500;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             zedGraph.Location = new System.Drawing.Point(100, 100);
             zedGraph.Name = "zedGraph";
             zedGraph.Size = new System.Drawing.Size(600, 250);
@@ -50,6 +55,7 @@ namespace _8B6T_NRZ_LogicalEncoder_V2 {
         private static string Bin2Hex(string str) {
             long temp = Convert.ToInt64(str, 2);
             string result = Convert.ToString(temp, 16);
+            if (temp < 0x10) result = "0" + result;
             return result.ToUpper();
         }
 
@@ -66,7 +72,7 @@ namespace _8B6T_NRZ_LogicalEncoder_V2 {
             myPane.YAxis.Scale.MinorStep = 1;
             myPane.XAxis.Scale.MajorStep = 1;
             myPane.XAxis.Scale.MinorStep = 1;
-            
+
         }
 
         private void button1_Click(object sender, EventArgs e) {
@@ -78,17 +84,27 @@ namespace _8B6T_NRZ_LogicalEncoder_V2 {
                     MessageBox.Show("Wrong input", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-            while ((userBinCode.Length % 8) != 0) {
-                userBinCode += "0";
-            }
+
             string temp = userBinCode;
 
             for (int i = 8; i < userBinCode.Length; i += 9) {
                 temp = temp.Insert(i, " ");
             }
-            label1.Text = temp;
-            textBox1.Text = userBinCode;
             string[] inputs = temp.Split(' ');
+
+            while ((inputs[inputs.Length - 1].Length % 8) != 0) {
+                inputs[inputs.Length - 1] = inputs[inputs.Length - 1].Insert(0, "0");
+            }
+
+            label1.Text = "";
+            textBox1.Text = "";
+
+            for (int i = 0; i < inputs.Length; i++) {
+                label1.Text += inputs[i] + " ";
+                textBox1.Text += inputs[i];
+            }
+
+
             Signalinputs.Clear();
             if (textBox1.Text == "") {
                 myCurve.Clear();
