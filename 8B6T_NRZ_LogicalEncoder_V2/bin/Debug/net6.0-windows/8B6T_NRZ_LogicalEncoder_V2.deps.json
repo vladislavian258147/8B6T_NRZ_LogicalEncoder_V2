@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "8B6T_NRZ_LogicalEncoder_V2/1.0.0": {
+        "dependencies": {
+          "ZedGraph": "5.1.5.28844",
+          "ZedGraph.Web": "5.1.5.29221"
+        },
+        "runtime": {
+          "8B6T_NRZ_LogicalEncoder_V2.dll": {}
+        }
+      },
+      "ZedGraph/5.1.5.28844": {
+        "runtime": {
+          "ZedGraph.dll": {
+            "assemblyVersion": "5.1.5.28844",
+            "fileVersion": "5.1.5.28844"
+          }
+        },
+        "resources": {
+          "de/ZedGraph.resources.dll": {
+            "locale": "de"
+          },
+          "es/ZedGraph.resources.dll": {
+            "locale": "es"
+          },
+          "fr/ZedGraph.resources.dll": {
+            "locale": "fr"
+          },
+          "hu/ZedGraph.resources.dll": {
+            "locale": "hu"
+          },
+          "it/ZedGraph.resources.dll": {
+            "locale": "it"
+          },
+          "ja/ZedGraph.resources.dll": {
+            "locale": "ja"
+          },
+          "pt/ZedGraph.resources.dll": {
+            "locale": "pt"
+          },
+          "ru/ZedGraph.resources.dll": {
+            "locale": "ru"
+          },
+          "sk/ZedGraph.resources.dll": {
+            "locale": "sk"
+          },
+          "sv/ZedGraph.resources.dll": {
+            "locale": "sv"
+          },
+          "tr/ZedGraph.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-cn/ZedGraph.resources.dll": {
+            "locale": "zh-cn"
+          },
+          "zh-tw/ZedGraph.resources.dll": {
+            "locale": "zh-tw"
+          }
+        }
+      },
+      "ZedGraph.Web/5.1.5.29221": {
+        "runtime": {
+          "ZedGraph.Web.dll": {
+            "assemblyVersion": "5.1.5.29221",
+            "fileVersion": "5.1.5.29221"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8B6T_NRZ_LogicalEncoder_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZedGraph/5.1.5.28844": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZedGraph.Web/5.1.5.29221": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
